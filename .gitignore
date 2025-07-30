@@ -1,0 +1,21 @@
+# Ignorar la carpeta de compilación
+/target/
+
+# Ignorar archivos de NetBeans
+/nbproject/private/
+/build/
+/dist/
+
+# Archivos temporales de sistema operativo
+*.log
+*.class
+*.iml
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ignorar configuraciones personales
+.idea/
+.vscode/
+*.bak
+*.tmp
